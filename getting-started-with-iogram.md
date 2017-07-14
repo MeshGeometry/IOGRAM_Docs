@@ -38,7 +38,7 @@ A border divides each workspace view according to a recursive splitting pattern 
 
 The core of an Iogram project is its component graph. To start building the graph, we will add the first component to our component graph. Our graph has the default name "MyGraphView". We will keep that name in this tutorial, but keep in mind that you can change the name, and you can create multiple views to organize your work on a graph.
 
-In the search bar of one of the component library views, type "ReadTriangleMesh". The complete list of components disappears and only components relevant to your search are in the library now. In our case, there is only one. Left click and drag the ReadTriangleMeshcomponent onto the graph view, and the component will appear in the graph view.
+In the search bar of one of the component library views, type "ReadOFF". The complete list of components disappears and only components relevant to your search are in the library now. In our case, there is only one. Left click and drag the ReadTriangleMeshcomponent onto the graph view, and the component will appear in the graph view.
 
 ![](/assets/gswi_pngs/gswi3.png)
 
@@ -46,9 +46,9 @@ Save your work by clicking the save command in the middle of the command bar acr
 
 ## Load a mesh asset and render it in the 3D scene view
 
-Right click on the input labelled "Mesh file" and you will see that it has a default value of "Models/bumpy.off". We will change this shortly, but for now go back to your search in the component library and search for "Renderer". Drag a MeshRenderercomponent onto your graph view. \(Tip: you can use the shortcut Alt + m in the graph view to instantly drop a MeshRenderercomponent!\)
+Right click on the input labelled "File" and type "Models/bumpy.off". Go back to your search in the component library and search for "MeshRenderer". Drag a MeshRenderer component onto your graph view. \(Tip: you can use the shortcut Alt + m in the graph view to instantly drop a MeshRenderer component!\)
 
-Join the "Mesh out" output of the ReadTriangleMesh component to the "Mesh" input of the MeshRenderer component. You can do this by left clicking in the blue "Mesh out" output slot of the ReadTriangleMesh component and dragging the mouse to the green "Mesh" input slot of the  MeshRenderer component.
+Join the "Mesh" output of the ReadOFF component to the "Mesh" input of the MeshRenderer component. You can do this by left clicking in the blue "Mesh" output slot of the ReadOFF component and dragging the mouse to the green "Mesh" input slot of the  MeshRenderer component.
 
 Now you should see some action in your 3D view. The MeshRenderer takes a triangle mesh as input and renders it in the scene.
 

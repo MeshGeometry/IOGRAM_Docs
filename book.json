@@ -1,0 +1,14 @@
+{
+    "plugins": [ "theme-api" ],
+    "pluginsConfig": {
+        "theme-api": {
+            "languages": [
+                {
+                    "lang": "C++",
+                    "name": "C++",
+                    "default": true
+                }
+            ]
+        }
+    }
+}

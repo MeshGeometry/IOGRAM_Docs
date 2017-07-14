@@ -238,9 +238,9 @@ One way to write custom Iogram components is with theScriptInstancecomponent, wh
 
 Iogram \(and its documentation!\) is a work in progress, so stay tuned for updates. In the meantime, check out these other resources to get started.
 
-* Online[component documentatio](https://meshgeometry.github.io)n giving you a list of all available Iogram components
+* Online [component documentatio](https://meshgeometry.github.io)n giving you a list of all available Iogram components
 
-* a[tutorial video](https://www.youtube.com/watch?v=SmOYs8_60Rg&feature=youtu.be)if you'd prefer to see Iogram in real-time.
+* a [tutorial video](https://www.youtube.com/watch?v=SmOYs8_60Rg&feature=youtu.be)if you'd prefer to see Iogram in real-time.
 
 
 

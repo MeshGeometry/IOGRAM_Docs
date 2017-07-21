@@ -42,12 +42,7 @@ Outputs:
 
 | Variable | Name | Full Name | Description | Type | List Access |
 | :--- |:--- | :--- | :--- | :--- |:--- | :--- |
-| --image--- | what | is ths| asdf | asdf | asdf |
-
-
-
-
-
+| _variable_ | _name_ | _fullname_ | _description_ | _type_ | _listaccess_ |
 
 
 # Shortcuts and keyboard commands

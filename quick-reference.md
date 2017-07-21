@@ -30,7 +30,22 @@ Overview:
 
 | Icon | Name | Full Name | Description |
 | :--- |:--- | :--- | :---|
-| --image--- | what | is ths|
+| --image--- | what | is ths| asdf |
+
+Inputs:
+
+| Icon | Name | Full Name | Description |
+| :--- |:--- | :--- | :---|
+| --image--- | what | is ths| asdf |
+
+Outputs:
+
+| Icon | Name | Full Name | Description |
+| :--- |:--- | :--- | :---|
+| --image--- | what | is ths| asdf |
+
+
+
 
 
 # Shortcuts and keyboard commands

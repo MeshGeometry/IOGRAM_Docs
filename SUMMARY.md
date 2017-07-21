@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Getting Started with IOGRAM](getting-started-with-iogram.md)
 * [Quick Reference](quick-reference.md)
+* [Component Reference](component_docs.md)
 * [Sample Projects](sample-projects.md)
   * [Hello World](sample-projects/hello-world.md)
   * [Basic Interaction](sample-projects/basic-interaction.md)

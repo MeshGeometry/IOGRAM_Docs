@@ -14,7 +14,7 @@ When the editor launches, you will be greeted by a project dialogue that lets yo
 
 In our example, we have chosen to name our project "MeshFrame" and to save it on the user's Desktop. When you click "Create New", a folder with the name MeshFrame will be created in the project directory.
 
-![](https://lh5.googleusercontent.com/eb0u6nZK_dZdpy6AKIc1WbEAKZFXp-GSvPHl4Bi1xNN2MxVEYJLhmTqEFEql-AFQHh_w8l1spIcyN99VAkX0pbvy2MAcsaFbrqTpAnA5mDI06j0CznTm2u-a8QKBZrifai5uVfjT "proj\_dialogue.png")
+![](/assets/gswi_pngs/gswi1.png)
 
 ## Get to know the Iogram Editor workspace
 
@@ -32,27 +32,27 @@ When you create a new project, you will see a blank Iogram workspace. The worksp
 
 A border divides each workspace view according to a recursive splitting pattern -- but to get started try dragging a border or two to resize the views. You will get a feel for how the views are arranged.
 
-![](https://lh5.googleusercontent.com/tAh9tZffb3CK-YSJnH_ztx6USELNgf-9gJklbfJs8vlaH_ezYM-DYq_7do7pgyZS7AFpRJ4VW_dxGtxHYIW1Ilo_FvnRM8dNkjJGHvuZhZxkPT0U5BvqFra3IC4j_xMNiDgJGT0y "blank\_workspace.png")
+![](/assets/gswi_pngs/gswi2.png)
 
 ## Drop a component onto a graph view
 
 The core of an Iogram project is its component graph. To start building the graph, we will add the first component to our component graph. Our graph has the default name "MyGraphView". We will keep that name in this tutorial, but keep in mind that you can change the name, and you can create multiple views to organize your work on a graph.
 
-In the search bar of one of the component library views, type "ReadTriangleMesh". The complete list of components disappears and only components relevant to your search are in the library now. In our case, there is only one. Left click and drag the ReadTriangleMeshcomponent onto the graph view, and the component will appear in the graph view.
+In the search bar of one of the component library views, type "ReadOFF". The complete list of components disappears and only components relevant to your search are in the library now. In our case, there is only one. Left click and drag the ReadTriangleMeshcomponent onto the graph view, and the component will appear in the graph view.
 
-![](https://lh5.googleusercontent.com/nQ2vL6HUBfKEullfbQH-kwh_L6XxSKz8_jieueIe-LMZMIPV7PUpVXYQ6sepXbS-ih_YQ3cYLLdARfYGX6peu0fU3gp-wBkkBsG3ePPDVOq7wBpBTOyB20z3qZxTDc_ngEwEPHYc "drop\_first\_comp.png")
+![](/assets/gswi_pngs/gswi3.png)
 
 Save your work by clicking the save command in the middle of the command bar across the top of the editor. The icon for the save command is a floppy disk. Save your work often!
 
 ## Load a mesh asset and render it in the 3D scene view
 
-Right click on the input labelled "Mesh file" and you will see that it has a default value of "Models/bumpy.off". We will change this shortly, but for now go back to your search in the component library and search for "Renderer". Drag a MeshRenderercomponent onto your graph view. \(Tip: you can use the shortcut Alt + m in the graph view to instantly drop a MeshRenderercomponent!\)
+Right click on the input labelled "File" and type "Models/bumpy.off". Go back to your search in the component library and search for "MeshRenderer". Drag a MeshRenderer component onto your graph view. \(Tip: you can use the shortcut Alt + m in the graph view to instantly drop a MeshRenderer component!\)
 
-Join the "Mesh out" output of the ReadTriangleMesh component to the "Mesh" input of the MeshRenderer component. You can do this by left clicking in the blue "Mesh out" output slot of the ReadTriangleMesh component and dragging the mouse to the green "Mesh" input slot of the  MeshRenderer component.
+Join the "Mesh" output of the ReadOFF component to the "Mesh" input of the MeshRenderer component. You can do this by left clicking in the blue "Mesh" output slot of the ReadOFF component and dragging the mouse to the green "Mesh" input slot of the  MeshRenderer component.
 
 Now you should see some action in your 3D view. The MeshRenderer takes a triangle mesh as input and renders it in the scene.
 
-![](https://lh3.googleusercontent.com/c2eoGpdw6i6ExlBxKg_-29Ji7nv2y7YjOWYPGLswd8Aba3FC7RaABQiGyfDsWVjvqcVQ2tUaAhng9hI95mac_SRadohLixlLgerKJesGaIqeCBhyZ2DQOaKZ7lxiw4p2YroTNJUq "bumpy\_first\_render.png")
+![](/assets/gswi_pngs/gswi4.png)
 
 You don't have to use "bumpy.off". You can use any OFF file \(Object File Format\) you happen to have lying around, and many other formats too. A great source of OFF files is our favorite open source C++ geometry processing library libigl, which you can find[here](https://github.com/libigl/libigl).
 
@@ -68,7 +68,7 @@ Search for "LineEdit" in the component library. Your search will turn up two com
 
 Drag one ScreenLineEdit component and one LineEditListener component onto your graph view. Check the 3D scene view to see that a user interface text entry element has appeared in the scene, with the default label "My Text Input".
 
-![](https://lh5.googleusercontent.com/AQ-5wQWC4cByOH6E3UOjnYHJN9erBCHobqY_zfeO1Ttb7b0m-ng7h5xXDUOnnIQB-wBsJGFWvKqnttush9SZ8orDAY9nc_2cIR8HvauwhANQ7PnzpsY9ytjwSeOQETEX0JXQxxML "line\_edit\_comps.png")
+![](/assets/gswi_pngs/gswi5.png)
 
 Hook the blue "LineEditout" output slot on the ScreenLineEdit component to the green "LineEditPointers" input slot on the LineEditListener component. You can left mouse click and drag your components around to give them an orderly arrangement as the number of components in your graph grows. For most large component graphs, you will want to organize your components using Iogram's more advanced multiple graph views feature.
 
@@ -86,7 +86,7 @@ It will appear quite small at first. The 3D scene view has the following control
 
 * Pan: move the mouse while holding Shift + right mouse button
 
-![](https://lh3.googleusercontent.com/l_4WaVLxl9ecND3IhwBiAv_pmdXy0QOvcibquvc72KFia1ts__nPxaibY9RuUmdkA8LVdpuUtcJ7tXAwexLypfV83zDz2eCkKl6CNYyea_sapdiGK9xLO9xyRxUNmhJPSmrq9Hqa "chebu\_first\_render.png")
+![](/assets/gswi_pngs/gswi6.png)
 
 ## Add a slider for more end-user interaction
 
@@ -96,13 +96,13 @@ Search the component library for "Slider" and drag one ScreenSlider component an
 
 However, if you look closely you will see there is a problem. Look at the "My Text Input" text entry element you created earlier. The ScreenSlider's user interface element has landed in the scene right on top of it!
 
-![](https://lh6.googleusercontent.com/-w4LKHLoN6XRE9sWoYidIzO8LM0e-w5gbkz3IsKu-bsjgVT1Mmkc7OG_H3kn2AVb0NBo5zic_B2Xu_V6R2GUgTxSg7fkgrle3hkQ7uZ946KJ1cGmj7mrKpZXD2dP-Z1lpXZlFdk3 "overlap\_in\_ui.png")
+![](/assets/gswi_pngs/gswi7.png)
 
 You can address such issues manually by adjusting inputs to the ScreenLineEdit and ScreenSlider components, but you can also use a ScreenContainer component as a convenient way to organize your user interface elements in the scene.
 
 Search the component library for "ScreenContainer" and drag that component onto the graph view. Now connect the ScreenContainer's blue "ContainerElement" output slot to the green "Parent" input slot of both the ScreenLineEdit component and the ScreenSlider component. \(Don't forget that you can drag your components around to make space, and don't forget to keep saving your work!\)
 
-![](https://lh5.googleusercontent.com/TgIX6zmZentXRrpKK_iHmiJdf6Kvfxhho54Rtgq_WdlCFm851QlXMV93oxLf4Gk7JpJKnVaGts7pHWarPIPavzxAFCw1RAuEFVGLTWFU43iNbC4wfpzrYtIQzT8baq_U8zm3A6nP "screen\_container.png")
+![](/assets/gswi_pngs/gswi8.png)
 
 If parenting the ScreenLineEdit to the ScreenContainer resets its text value, enter "Models/cheburashka.off" again in the user interface text entry element.
 
@@ -124,7 +124,7 @@ Then hook the ReadTriangleMesh component's "Mesh out" output to the MeshFrame  c
 
 The "Mesh" output contains the result of applying the framing operation to the input mesh. Hook MeshFrame's "Mesh" output to the MeshRenderer component's "Mesh" input. \(And, if you did not unhook ReadTriangleMesh's "Mesh out" input from MeshRenderer's "Mesh" input, watch how making a new connection there unhooks the connection previously in place.\)
 
-![](https://lh5.googleusercontent.com/PoiPhRKxfdyFa_vEIBosTgJAoC5t89bsHoyxApg7SvX71zGkqht38PzQABGFHJB4eUrLIrUJgLqGYZbxu_Cmv12rCotYK1-beeExJKg4uslQHBd0SBhRTL6aztqD5k83RcZX1VEj "framed\_chebu.png")
+![](/assets/gswi_pngs/gswi9.png)
 
 Now slide your slider around \(that's what it's for!\). If all goes well, you will see the holes in each mesh face shrink and expand in sync with the slider's values.
 
@@ -134,7 +134,7 @@ Now it's time to export your prototype as a standalone application! First, save 
 
 Find the build menu view, which is positioned in the mid bottom left of the screen in the default Iogram editor workspace. Drag the border up \(in the default workspace, this is the border between the build menu view and the 3D scene view\) until you can see the entire build menu including the "Start Build" button in light red.
 
-![](https://lh5.googleusercontent.com/dU_W3lMFJFm_0v3XCczZgfgfY3mWF4nj0UaErKBSh4GTmpqML9KJ3_IDwvOqnT2r0-tZIokOZj_waZeOo7zZ4OzfkA8IlEkl6oAv5tyjL_x5md3pxHDcxgSoLOapi9LlMmgGBg1A "build\_menu.png")
+![](/assets/gswi_pngs/gswi10.png)
 
 For both "Target Dir" and "Target Name" we will choose to override the default "MyBuild" and enter "MeshFrameApp" in both fields, but you can use whatever you like. What this means is that in the project directory \(for us, MeshFrame\) a new directory called MeshFrameApp will be created which will contain an executable file called MeshFrameApp \(MeshFrameApp.exe on Windows\) as well as the necessary project resources in two .pak files called CoreData.pak and Data.pak.
 
@@ -146,17 +146,17 @@ When you are ready, click the light red button labelled "Start Build". Look in y
 
 You are ready to try out your exported application. Double click or otherwise launch the MeshFrameApp executable \(MeshFrameApp.exe on Windows\) that your project built inside the MeshFrameApp folder. When it launches, the application shows only the 3D view, including the user interface elements, but none of the editor workspace views.
 
-![](https://lh3.googleusercontent.com/ghi7l5WcDO4aS9DU45P2HOjSq4SYvF6JD7ZZEA63laQ04q4DMHLYoTiI8JLmqHjqyq30OcR7GATtKgulH8pHjzcLF__5o3rsxPgOM4PLlauhd9omr1SbCqMN_lZWwGBaERp6O8VO "app\_blank.png")
+![](/assets/gswi_pngs/gswi11.png)
 
 The view is blank because we haven't loaded a mesh yet and because the slider is at zero, which is an edge value for the framing operation.
 
 Go ahead and enter "Models/bumpy.off" in the text input and play around with the slider. We have made the bumpy model pretty large and the frames fairly thick.
 
-![](https://lh5.googleusercontent.com/Mhad01GdcYXjZO4XmCHonxkFc987YXqZz5d4R8w_AO-5DUZJaWGcvejw7UNK_q8rzf8nZit7uZNZU9DaBD4DDPJhHv--9N4lPWtZROtJfzq3pWRf45GxS_joZTPfCP48hyJKpeTJ "app\_bumpy\_framed.png")
+![](/assets/gswi_pngs/gswi12.png)
 
 Now try loading "Models/cheburashka.off". If the cheburashka is small or hard to find, you can control the 3D scene view in the exported application the same way you can in the 3D scene view in the Iogram editor, with right mouse button to rotate, and with right mouse button plus Ctrl or Shift to zoom or pan respectively.
 
-![](https://lh5.googleusercontent.com/XtgqDMfpDd1fGHi4PcXl2rOPjEp7nLmZ2vjC0qZ6MtwoaU63UGeaBV2KtDydf4HN-oBiWasB3ZWU7jHmpGWOkOWlsC-D2Vv2wwRLZlw8oD5B8R8KBctaTh60JWgaCAIr1EiLTVTj "app\_chebu\_framed.png")
+![](/assets/gswi_pngs/gswi13.png)
 
 # Extending a project
 
@@ -166,7 +166,7 @@ We will extend our project by using the CloneNode component to populate the scen
 
 The Series component is useful for making lists of numbers, so search for it and drop a copy into the view. This is a good time to check out the Panel component as well. Drop one in your view and drag its bottom right corner to resize it.
 
-![](https://lh6.googleusercontent.com/QOg5KIxojhFEs3fIzYGs4dMg7PCZJk50cLmfmQ-C5nFrL-DZkwVwuwmIdxkdEkk3kA3hI4qgS7N2YlZInx9Hvt9wLRSWkknHDHw6PN95YnZdyRYSYBL8bmGOxsJHLUXPWgCm7La1 "inspect\_series.png")
+![](/assets/gswi_pngs/gswi14.png)
 
 At this point, you will probably want some fresh space to work with in your graph view. By holding the left mouse button on the workspace background, you can shift the graph view to center on some fresh space to work with.
 
@@ -176,7 +176,7 @@ The Panel body gives us our first glimpse into Iogram's data tree structures. It
 
 Now search for and drop a Graft panel, and use it to intercept the "Series" output between Series and Panel, as shown below.
 
-![](https://lh3.googleusercontent.com/WxYt4HnJRXQ_FI-VlejBAFgYTi6XWiVdZyvNaK8fyxA3Xnxt_mQcc5Qn-CsRFNEQjTrL0ZmzJ9MmgrYIVWF86kIt38C_rQ5RoeJyC176mHZ9PxFCorpuJvVn_73jvEPlB47lpF_A "inspect\_graft\_series.png")
+![](/assets/gswi_pngs/gswi15.png)
 
 The Graft component performs the graft data tree operation on its input data tree, which basically takes any lists it finds stored at a branch and grows a new branch there for each item in the list. You don't have to fully understand it at this stage, but it may help to get another Panel and compare the original and the grafted data side by side.
 
@@ -196,13 +196,13 @@ Now search for "Transform", and drag in one ConstructTransform component. The Co
 
 We only want to change the position of the mesh copies, so hook ConstructVector's "Vector3" output slot to ConstructTransform's "Position" input slot. Remember that, thanks to data trees, we are really connecting 100 vectors to the "Position" input, so that ConstructTransform's "Transform" output will likewise store 100 transformations after the component has performed its operation.
 
-![](https://lh3.googleusercontent.com/AsV-Nl8z0Z0p4duIabmnh6SeETbWcfqqr57-00VSUkDsOSJCnvYZPebtqe9NkRLz5vPOawn9lMhePOh9r3Nio9M-NBNtv1HMDlr4Mpx_Y-2FnMdSqas8Qpg1JNvtBfIn9byRTTL2 "grid\_of\_transforms.png")
+![](/assets/gswi_pngs/gswi16.png)
 
 Search for "CloneNode" and drag a CloneNode component into the view. The CloneNode component takes as input the node ID of a node in the scene, and adds copies of that node to the scene, but in different positions. Join MeshRenderer's "NodeID" output to CloneNode's "NodeID" input. Also join ConstructTransform's "Transform" output to CloneNode's "Transform" input.
 
 The 100 transformations coming in from ConstructTransform's "Transform" output cause the original node storing our mesh to be copied to 100 different positions in the scene. If all goes well, you will see copies of your mesh arranged in a grid in the scene. Adjust the "Step" input of the Seriescomponent to change the grid spacing.
 
-![](https://lh6.googleusercontent.com/fl4-erMNMZ-84nvRsMbY88SQDw7-6J6klgQ6yxgHPPUD3-eDU9xdgyMTQDdvr2lGu-x-LEN7_QEOnQcMYBCvzaUqczc5Lc5OJUIRwekgQTk7yz9TaVi3OCGEh2XgEKLrPEikSLS8 "grid\_bumpy.png")
+![](/assets/gswi_pngs/gswi17.png)
 
 Now go ahead and export your application once again. Or think of ways you could extend the end-user's interaction with the scene, and see if you can make it happen.
 
@@ -212,7 +212,7 @@ Most Iogram components are included in one of the component groups listed at the
 
 For example, in the screen capture below, the first component library contains the components resulting after a search for "Mesh", while the second contains the results after a search for "Tree".
 
-![](https://lh5.googleusercontent.com/ALbNYxqRK39FKvkc4B-K4zOtZM5cqBw6amzFTgUO6eYQY0xI0qsKY-0ZuaL8Bs0xQk_9jf98sEA7JcQABuCfFmzW-D_s92UNm1QSCWDekFpUNow6oh0iinZL3iz5GAxZiO8gkTc8 "mesh\_tree\_comp\_libs.png")
+![](/assets/gswi_pngs/gswi18.png)
 
 # Advanced features
 
@@ -238,9 +238,9 @@ One way to write custom Iogram components is with theScriptInstancecomponent, wh
 
 Iogram \(and its documentation!\) is a work in progress, so stay tuned for updates. In the meantime, check out these other resources to get started.
 
-* Online[component documentatio](https://meshgeometry.github.io)n giving you a list of all available Iogram components
+* Online [component documentatio](https://meshgeometry.github.io)n giving you a list of all available Iogram components
 
-* a[tutorial video](https://www.youtube.com/watch?v=SmOYs8_60Rg&feature=youtu.be)if you'd prefer to see Iogram in real-time.
+* a [tutorial video](https://www.youtube.com/watch?v=SmOYs8_60Rg&feature=youtu.be)if you'd prefer to see Iogram in real-time.
 
 
 

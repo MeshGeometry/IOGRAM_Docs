@@ -25,6 +25,26 @@ The complete list of component groups follows:
 
 To see a complete list of all available Iogram components, check out the auto-generated [component documentation](https://meshgeometry.github.io).
 
+### Graphics_Mesh
+Overview:
+
+| Icon | Categarory | Name | Full Name | Description |
+| :--- |:--- | :--- | :--- | :---|
+| _icon_ | _category_ | _name_ | _fullname_| _description_ |
+
+Inputs:
+
+| Variable | Name | Full Name | Description | Type | List Access | Default Value |
+| :--- |:--- | :--- | :--- | :--- |:--- | :--- |:--- |
+| _variable_ | _name_ | _fullname_ | _description_ | _type_ | _listaccess_ | _defaultvalue_ |
+
+Outputs:
+
+| Variable | Name | Full Name | Description | Type | List Access |
+| :--- |:--- | :--- | :--- | :--- |:--- | :--- |
+| _variable_ | _name_ | _fullname_ | _description_ | _type_ | _listaccess_ |
+
+
 # Shortcuts and keyboard commands
 
 ## Component creation shortcuts

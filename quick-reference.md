@@ -28,9 +28,9 @@ To see a complete list of all available Iogram components, check out the auto-ge
 ### Graphics_Mesh
 Overview:
 
-| Icon | Name | Full Name | Description |
-| :--- |:--- | :--- | :---|
-| --image--- | what | is ths| asdf |
+| Icon | Categarory | Name | Full Name | Description |
+| :--- |:--- | :--- | :--- | :---|
+| --image--- | Graphics | what | is ths| asdf |
 
 Inputs:
 

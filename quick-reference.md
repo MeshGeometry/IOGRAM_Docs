@@ -34,15 +34,17 @@ Overview:
 
 Inputs:
 
-| Icon | Name | Full Name | Description |
-| :--- |:--- | :--- | :---|
-| --image--- | what | is ths| asdf |
+| Variable | Name | Full Name | Description | Type | List Access | Default Value |
+| :--- |:--- | :--- | :--- | :--- |:--- | :--- |:--- |
+| --image--- | what | is ths| asdf | asdf | asdf | asdf |
 
 Outputs:
 
-| Icon | Name | Full Name | Description |
-| :--- |:--- | :--- | :---|
-| --image--- | what | is ths| asdf |
+| Variable | Name | Full Name | Description | Type | List Access |
+| :--- |:--- | :--- | :--- | :--- |:--- | :--- |
+| --image--- | what | is ths| asdf | asdf | asdf |
+
+
 
 
 

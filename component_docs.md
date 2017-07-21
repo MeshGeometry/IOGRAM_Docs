@@ -4,7 +4,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|X + Y|Addition|Mathematical addition|
+|![](/assets/icons/Maths_Addition.png)|Maths|X + Y|Addition|Mathematical addition|
 
 Inputs: 
 
@@ -24,7 +24,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|X - Y|Subtraction|Mathematical subtraction|
+|![](/assets/icons/Maths_Subtraction.png)|Maths|X - Y|Subtraction|Mathematical subtraction|
 
 Inputs: 
 
@@ -44,7 +44,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|X * Y|Multiplication|Mathematical multiplication|
+|![](/assets/icons/Maths_Multiplication.png)|Maths|X * Y|Multiplication|Mathematical multiplication|
 
 Inputs: 
 
@@ -64,7 +64,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|X/Y|Division|Mathematical division|
+|![](/assets/icons/Maths_Division.png)|Maths|X/Y|Division|Mathematical division|
 
 Inputs: 
 
@@ -84,7 +84,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|GreaterThan|Greater Than|Tests if input B is greater than input A|
+|![](/assets/icons/Maths_GreaterThan.png)|Maths|GreaterThan|Greater Than|Tests if input B is greater than input A|
 
 Inputs: 
 
@@ -105,7 +105,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LessThan|Less Than|Tests if input B is less than input A|
+|![](/assets/icons/Maths_LessThan.png)|Maths|LessThan|Less Than|Tests if input B is less than input A|
 
 Inputs: 
 
@@ -126,7 +126,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RandomValue|Random Value|Generates a random float between min and max|
+|![](/assets/icons/Maths_RandomValue.png)|Maths|RandomValue|Random Value|Generates a random float between min and max|
 
 Inputs: 
 
@@ -148,7 +148,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DotProduct|Dot Product|Computes the dot product of two vectors|
+|![](/assets/icons/Maths_DotProduct.png)|Maths|DotProduct|Dot Product|Computes the dot product of two vectors|
 
 Inputs: 
 
@@ -168,7 +168,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CrossProduct|Cross Product|Computes the cross product of two vectors|
+|![](/assets/icons/Maths_CrossProduct.png)|Maths|CrossProduct|Cross Product|Computes the cross product of two vectors|
 
 Inputs: 
 
@@ -188,7 +188,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|VectorLength|Vector Length|Computes the length of a vector|
+|![](/assets/icons/Maths_VectorLength.png)|Maths|VectorLength|Vector Length|Computes the length of a vector|
 
 Inputs: 
 
@@ -207,7 +207,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|UnitizeVector|UnitizeVector|Computes a unit vector from a vector|
+|![](/assets/icons/Maths_UnitizeVector.png)|Maths|UnitizeVector|UnitizeVector|Computes a unit vector from a vector|
 
 Inputs: 
 
@@ -226,7 +226,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LinInterp|Linear Interpolation|Linear interpolation between two values|
+|![](/assets/icons/Maths_Lerp.png)|Maths|LinInterp|Linear Interpolation|Linear interpolation between two values|
 
 Inputs: 
 
@@ -247,7 +247,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RectangularGrid|Rectangular Grid|Generates a planar rectangular grid from transform, number of cells and cell size|
+|![](/assets/icons/Maths_RectangularGrid.png)|Maths|RectangularGrid|Rectangular Grid|Generates a planar rectangular grid from transform, number of cells and cell size|
 
 Inputs: 
 
@@ -271,7 +271,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RectangularArray|Rectangular Array|Generates a 3D rectangular array of cells from transform, number of cells and cell size|
+|![](/assets/icons/Maths_RectangularArray.png)|Maths|RectangularArray|Rectangular Array|Generates a 3D rectangular array of cells from transform, number of cells and cell size|
 
 Inputs: 
 
@@ -296,7 +296,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|HexagonalGrid|Hexagonal Grid|Generates a planar hexagonal grid|
+|![](/assets/icons/Maths_HexGrid.png)|Maths|HexagonalGrid|Hexagonal Grid|Generates a planar hexagonal grid|
 
 Inputs: 
 
@@ -320,7 +320,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RhodoLattice|Rhodo Lattice|Generates 3D lattice from rhombic dodecahedral tiling|
+|![](/assets/icons/Maths_RhodoLattice.png)|Maths|RhodoLattice|Rhodo Lattice|Generates 3D lattice from rhombic dodecahedral tiling|
 
 Inputs: 
 
@@ -344,7 +344,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ConstructRotation|Construct Rotation Quaternion|Construct a rotation quaternion from axis and angle|
+|![](/assets/icons/Geometry_Rotation.png)|Geometry|ConstructRotation|Construct Rotation Quaternion|Construct a rotation quaternion from axis and angle|
 
 Inputs: 
 
@@ -365,7 +365,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ConstructRotation|Construct Rotation Quaternion|Construct a rotation quaternion from axis and angle|
+|![](/assets/icons/Geometry_LookAt.png)|Geometry|ConstructRotation|Construct Rotation Quaternion|Construct a rotation quaternion from axis and angle|
 
 Inputs: 
 
@@ -386,7 +386,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ReadDXF|Read DXF|Reads a DXF file. Supports Meshes, Polylines, and Points.|
+|![](/assets/icons/DefaultIcon.png)|Geometry|ReadDXF|Read DXF|Reads a DXF file. Supports Meshes, Polylines, and Points.|
 
 Inputs: 
 
@@ -408,7 +408,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|WriteDXF|Write DXF|Writes a DXF file. Supports Meshes, Polylines, and Points.|
+|![](/assets/icons/DefaultIcon.png)|Geometry|WriteDXF|Write DXF|Writes a DXF file. Supports Meshes, Polylines, and Points.|
 
 Inputs: 
 
@@ -432,7 +432,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ConstructReflection|Construct Reflection Transformation|Construct a reflection transformation from plane|
+|![](/assets/icons/DefaultIcon.png)|Geometry|ConstructReflection|Construct Reflection Transformation|Construct a reflection transformation from plane|
 
 Inputs: 
 
@@ -452,7 +452,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ConstructReflection|Construct Reflection Transformation|Construct a reflection transformation from plane|
+|![](/assets/icons/DefaultIcon.png)|Geometry|ConstructReflection|Construct Reflection Transformation|Construct a reflection transformation from plane|
 
 Inputs: 
 
@@ -471,7 +471,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|PlaneTransform|ConstructPlaneTransform|Construct Transform from Point and Normal|
+|![](/assets/icons/DefaultIcon.png)|Geometry|PlaneTransform|ConstructPlaneTransform|Construct Transform from Point and Normal|
 
 Inputs: 
 
@@ -491,7 +491,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Affine Transformation|Apply Affine Transformation|Apply spatial transformation to geometric object|
+|![](/assets/icons/Geometry_AffineTransformation.png)|Geometry|Affine Transformation|Apply Affine Transformation|Apply spatial transformation to geometric object|
 
 Inputs: 
 
@@ -511,7 +511,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Series||Create a series of numbers|
+|![](/assets/icons/Sets_Series.png)|Sets|Series||Create a series of numbers|
 
 Inputs: 
 
@@ -532,7 +532,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LogisticGrowth||Create a series of numbers following logistic growth curve|
+|![](/assets/icons/DefaultIcon.png)|Sets|LogisticGrowth||Create a series of numbers following logistic growth curve|
 
 Inputs: 
 
@@ -553,7 +553,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ListItem|List Item|Select items by index|
+|![](/assets/icons/Sets_ListItem.png)|Sets|ListItem|List Item|Select items by index|
 
 Inputs: 
 
@@ -573,7 +573,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|IfThen|If then|Separates list items according to pattern|
+|![](/assets/icons/Sets_IfThen.png)|Sets|IfThen|If then|Separates list items according to pattern|
 
 Inputs: 
 
@@ -594,7 +594,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Merge|Merge|Merges two lists according to pattern|
+|![](/assets/icons/Sets_Merge.png)|Sets|Merge|Merge|Merges two lists according to pattern|
 
 Inputs: 
 
@@ -615,7 +615,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ListConstruct|List Construct|Construct a list from items|
+|![](/assets/icons/Sets_ListConstruct.png)|Sets|ListConstruct|List Construct|Construct a list from items|
 
 Inputs: 
 
@@ -635,7 +635,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ListItem|List Item|Select items by index|
+|![](/assets/icons/Sets_ShiftList.png)|Sets|ListItem|List Item|Select items by index|
 
 Inputs: 
 
@@ -656,7 +656,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ForLoopBegin|For Loop Begin|Entry point for a For Loop|
+|![](/assets/icons/DefaultIcon.png)|Sets|ForLoopBegin|For Loop Begin|Entry point for a For Loop|
 
 Inputs: 
 
@@ -678,7 +678,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LoopEnd|Loop End|Ends a loop or transmits data back to start.|
+|![](/assets/icons/DefaultIcon.png)|Sets|LoopEnd|Loop End|Ends a loop or transmits data back to start.|
 
 Inputs: 
 
@@ -699,7 +699,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DataRecorder|Data Recorder|Records generic data and outputs to list.|
+|![](/assets/icons/DefaultIcon.png)|Sets|DataRecorder|Data Recorder|Records generic data and outputs to list.|
 
 Inputs: 
 
@@ -720,7 +720,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Freeze|Data Freeze|Writes all incoming data to a file. Then, if enabled, reads that data back. Good for saving states.|
+|![](/assets/icons/DefaultIcon.png)|Sets|Freeze|Data Freeze|Writes all incoming data to a file. Then, if enabled, reads that data back. Good for saving states.|
 
 Inputs: 
 
@@ -739,7 +739,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DataRecorder|Data Recorder|Records generic data and outputs to list.|
+|![](/assets/icons/DefaultIcon.png)|Sets|DataRecorder|Data Recorder|Records generic data and outputs to list.|
 
 Inputs: 
 
@@ -760,7 +760,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|AddKeyValue|Add Key Valye|Adds a key value pair to a variant map|
+|![](/assets/icons/DefaultIcon.png)|Sets|AddKeyValue|Add Key Valye|Adds a key value pair to a variant map|
 
 Inputs: 
 
@@ -780,7 +780,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|AddKeyValue|Add Key Valye|Adds a key value pair to a variant map|
+|![](/assets/icons/DefaultIcon.png)|Sets|AddKeyValue|Add Key Valye|Adds a key value pair to a variant map|
 
 Inputs: 
 
@@ -801,7 +801,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|GetValueByKey|Get Value by Key|Gets a value by key name.|
+|![](/assets/icons/DefaultIcon.png)|Sets|GetValueByKey|Get Value by Key|Gets a value by key name.|
 
 Inputs: 
 
@@ -821,7 +821,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ExportViewData|Export View Data|Exports data from a view to be used in another view.|
+|![](/assets/icons/DefaultIcon.png)|Sets|ExportViewData|Export View Data|Exports data from a view to be used in another view.|
 
 Inputs: 
 
@@ -840,7 +840,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ImportViewData|Import View Data|Imports data from a view to be used in this view.|
+|![](/assets/icons/DefaultIcon.png)|Sets|ImportViewData|Import View Data|Imports data from a view to be used in this view.|
 
 Inputs: 
 
@@ -859,7 +859,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MassAvg|Mass Average|Average of list of numbers|
+|![](/assets/icons/Maths_MassAverage.png)|Maths|MassAvg|Mass Average|Average of list of numbers|
 
 Inputs: 
 
@@ -878,7 +878,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MassAdd|Mass Addition|Sums a list of numbers|
+|![](/assets/icons/DefaultIcon.png)|Maths|MassAdd|Mass Addition|Sums a list of numbers|
 
 Inputs: 
 
@@ -897,7 +897,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Slider|Slider|An interactive numerical slider.|
+|![](/assets/icons/Input_Slider.png)|Input|Slider|Slider|An interactive numerical slider.|
 
 Inputs: 
 
@@ -916,7 +916,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY||||
+|![](/assets/icons/Input_Panel.png)|Input||||
 
 Inputs: 
 
@@ -935,7 +935,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Float|Float|Creates or casts a float|
+|![](/assets/icons/Input_Float.png)|Input|Float|Float|Creates or casts a float|
 
 Inputs: 
 
@@ -954,7 +954,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Integer|Integer|Creates or casts an integer|
+|![](/assets/icons/Input_Integer.png)|Input|Integer|Integer|Creates or casts an integer|
 
 Inputs: 
 
@@ -973,7 +973,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Toggle|Boolean Toggle|Boolean Toggle input|
+|![](/assets/icons/Input_Toggle.png)|Input|Toggle|Boolean Toggle|Boolean Toggle input|
 
 Inputs: 
 
@@ -992,7 +992,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ScreenToggle|Screen Toggle|Adds a boolean toggle to the user interface|
+|![](/assets/icons/Input_ScreenToggle.png)|Input|ScreenToggle|Screen Toggle|Adds a boolean toggle to the user interface|
 
 Inputs: 
 
@@ -1015,7 +1015,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ScreenContainer|Screen Container|A container for UI objects.|
+|![](/assets/icons/DefaultIcon.png)|Input|ScreenContainer|Screen Container|A container for UI objects.|
 
 Inputs: 
 
@@ -1037,7 +1037,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ScreenText|Screen Text|Adds some text to the screen UI|
+|![](/assets/icons/DefaultIcon.png)|Input|ScreenText|Screen Text|Adds some text to the screen UI|
 
 Inputs: 
 
@@ -1062,7 +1062,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ButtonListener|Button Listener|Listens to button in scene|
+|![](/assets/icons/Input_ToggleListener.png)|Input|ButtonListener|Button Listener|Listens to button in scene|
 
 Inputs: 
 
@@ -1082,7 +1082,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LineEditListener|Line Edit Listener|Listens for line edit input|
+|![](/assets/icons/Input_LineEditListener.png)|Input|LineEditListener|Line Edit Listener|Listens for line edit input|
 
 Inputs: 
 
@@ -1102,7 +1102,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|KeyboardListener|Keyboard Listener|Listens for Key strokes|
+|![](/assets/icons/Input_KeyboardListener.png)|Input|KeyboardListener|Keyboard Listener|Listens for Key strokes|
 
 Inputs: 
 
@@ -1124,7 +1124,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MouseDownListener|Mouse Down Listener|Listens for mouse down in scene|
+|![](/assets/icons/Input_MouseDownListener.png)|Input|MouseDownListener|Mouse Down Listener|Listens for mouse down in scene|
 
 Inputs: 
 
@@ -1145,7 +1145,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|GamepadListener|Gamepad Listener|Listens for gamepad input|
+|![](/assets/icons/Input_GamepadListener.png)|Input|GamepadListener|Gamepad Listener|Listens for gamepad input|
 
 Inputs: 
 
@@ -1168,7 +1168,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ScreenLineEdit|Screen Line Edit|Adds a line edit to the user interface|
+|![](/assets/icons/Input_ScreenLineEdit.png)|Input|ScreenLineEdit|Screen Line Edit|Adds a line edit to the user interface|
 
 Inputs: 
 
@@ -1190,7 +1190,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ScreenText|Screen Text|Adds some text to the screen UI|
+|![](/assets/icons/DefaultIcon.png)|Input|ScreenText|Screen Text|Adds some text to the screen UI|
 
 Inputs: 
 
@@ -1214,7 +1214,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|StringFormat|StringFormat|Appends or Creates a string with Formatting.|
+|![](/assets/icons/Input_StringReplace.png)|Input|StringFormat|StringFormat|Appends or Creates a string with Formatting.|
 
 Inputs: 
 
@@ -1235,7 +1235,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|StringAppend|StringAppend|Appends a string.|
+|![](/assets/icons/Input_StringAppend.png)|Input|StringAppend|StringAppend|Appends a string.|
 
 Inputs: 
 
@@ -1255,7 +1255,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ScanDir|ScanDir|Scans a directory for files.|
+|![](/assets/icons/Input_ScanDir.png)|Input|ScanDir|ScanDir|Scans a directory for files.|
 
 Inputs: 
 
@@ -1277,7 +1277,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Trigger|Trigger|Transmit IoDataTree at first input upon trigger at second input|
+|![](/assets/icons/Input_Trigger.png)|Input|Trigger|Trigger|Transmit IoDataTree at first input upon trigger at second input|
 
 Inputs: 
 
@@ -1297,7 +1297,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ObjectMove|ObjectMove|Moves an object based on user interaction|
+|![](/assets/icons/DefaultIcon.png)|Input|ObjectMove|ObjectMove|Moves an object based on user interaction|
 
 Inputs: 
 
@@ -1319,7 +1319,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Vector3|Vector3 Selector|Slider for selecting a Vector3|
+|![](/assets/icons/DefaultIcon.png)|Input|Vector3|Vector3 Selector|Slider for selecting a Vector3|
 
 Inputs: 
 
@@ -1338,7 +1338,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Color|Color Selector|Slider for selecting a Color|
+|![](/assets/icons/Input_ColorWheel.png)|Input|Color|Color Selector|Slider for selecting a Color|
 
 Inputs: 
 
@@ -1357,7 +1357,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|GeometryEdit|GeometryEdit|Allows the user to manipulate geometry vertices.|
+|![](/assets/icons/DefaultIcon.png)|Input|GeometryEdit|GeometryEdit|Allows the user to manipulate geometry vertices.|
 
 Inputs: 
 
@@ -1379,7 +1379,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SketchPlane|Sketch Plane|Create a sketch and position it in 3D.|
+|![](/assets/icons/DefaultIcon.png)|Input|SketchPlane|Sketch Plane|Create a sketch and position it in 3D.|
 
 Inputs: 
 
@@ -1402,7 +1402,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|EditGeometryListener|EditGeometryListener|Listens for updates to editable geometry|
+|![](/assets/icons/DefaultIcon.png)|Input|EditGeometryListener|EditGeometryListener|Listens for updates to editable geometry|
 
 Inputs: 
 
@@ -1421,7 +1421,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SystemCommand|Calls a program from the OS|Calls a program from the OS|
+|![](/assets/icons/Interop_SystemCommand.png)|Interop|SystemCommand|Calls a program from the OS|Calls a program from the OS|
 
 Inputs: 
 
@@ -1441,7 +1441,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|AsyncSystemCommand|Calls a program from the OS|Calls several programs from the OS|
+|![](/assets/icons/Interop_AsyncSystemCommand.png)|Interop|AsyncSystemCommand|Calls a program from the OS|Calls several programs from the OS|
 
 Inputs: 
 
@@ -1461,7 +1461,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|JsonSchema|Create JSON Schema|Creats a JSON Document from geometry data.|
+|![](/assets/icons/DefaultIcon.png)|Interop|JsonSchema|Create JSON Schema|Creats a JSON Document from geometry data.|
 
 Inputs: 
 
@@ -1483,7 +1483,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ExportViewData|Export View Data|Exports data from a view to be used in another view.|
+|![](/assets/icons/DefaultIcon.png)|Interop|ExportViewData|Export View Data|Exports data from a view to be used in another view.|
 
 Inputs: 
 
@@ -1503,7 +1503,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ExportViewData|Export View Data|Exports data from a view to be used in another view.|
+|![](/assets/icons/DefaultIcon.png)|Interop|ExportViewData|Export View Data|Exports data from a view to be used in another view.|
 
 Inputs: 
 
@@ -1522,7 +1522,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LoadResource|Load Resource|Loads a resource from a path|
+|![](/assets/icons/DefaultIcon.png)|Graphics|LoadResource|Load Resource|Loads a resource from a path|
 
 Inputs: 
 
@@ -1542,7 +1542,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SaveResource|Save Resource|Saves a resource to a path|
+|![](/assets/icons/DefaultIcon.png)|Graphics|SaveResource|Save Resource|Saves a resource to a path|
 
 Inputs: 
 
@@ -1563,7 +1563,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CreateMaterial|Create Material|Create a material from parameters|
+|![](/assets/icons/DefaultIcon.png)|Graphics|CreateMaterial|Create Material|Create a material from parameters|
 
 Inputs: 
 
@@ -1587,7 +1587,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CreateMaterial|Create Material|Create a material from parameters|
+|![](/assets/icons/DefaultIcon.png)|Graphics|CreateMaterial|Create Material|Create a material from parameters|
 
 Inputs: 
 
@@ -1611,7 +1611,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CreateMaterial|Create Material|Create a material from parameters|
+|![](/assets/icons/DefaultIcon.png)|Graphics|CreateMaterial|Create Material|Create a material from parameters|
 
 Inputs: 
 
@@ -1635,7 +1635,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RenderSettings|Base Render Settings|Sets a few of the most important render settings.|
+|![](/assets/icons/DefaultIcon.png)|Graphics|RenderSettings|Base Render Settings|Sets a few of the most important render settings.|
 
 Inputs: 
 
@@ -1657,7 +1657,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Viewport|Create Viewport|Creates a viewport for viewing geometry|
+|![](/assets/icons/DefaultIcon.png)|Graphics|Viewport|Create Viewport|Creates a viewport for viewing geometry|
 
 Inputs: 
 
@@ -1678,7 +1678,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MeshRenderer|MeshRenderer|Converts a mesh to a viewable object in the scene.|
+|![](/assets/icons/DefaultIcon.png)|Graphics|MeshRenderer|MeshRenderer|Converts a mesh to a viewable object in the scene.|
 
 Inputs: 
 
@@ -1702,7 +1702,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Display|Geometry Display|Displays geometry in the scene|
+|![](/assets/icons/DefaultIcon.png)|Graphics|Display|Geometry Display|Displays geometry in the scene|
 
 Inputs: 
 
@@ -1726,7 +1726,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MeshRenderer|MeshRenderer|Converts a mesh to a viewable object in the scene.|
+|![](/assets/icons/DefaultIcon.png)|Graphics|MeshRenderer|MeshRenderer|Converts a mesh to a viewable object in the scene.|
 
 Inputs: 
 
@@ -1749,7 +1749,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CurveToModel|Curve To Model|Converts a curve to a model on disk with a pointer to the model|
+|![](/assets/icons/DefaultIcon.png)|Graphics|CurveToModel|Curve To Model|Converts a curve to a model on disk with a pointer to the model|
 
 Inputs: 
 
@@ -1772,7 +1772,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Curve Renderer|Curve Renderer|Curve Renderer|
+|![](/assets/icons/DefaultIcon.png)|Graphics|Curve Renderer|Curve Renderer|Curve Renderer|
 
 Inputs: 
 
@@ -1794,7 +1794,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
+|![](/assets/icons/DefaultIcon.png)|Graphics|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
 
 Inputs: 
 
@@ -1818,7 +1818,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
+|![](/assets/icons/DefaultIcon.png)|Graphics|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
 
 Inputs: 
 
@@ -1841,7 +1841,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
+|![](/assets/icons/DefaultIcon.png)|Graphics|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
 
 Inputs: 
 
@@ -1865,7 +1865,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
+|![](/assets/icons/DefaultIcon.png)|Graphics|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
 
 Inputs: 
 
@@ -1885,7 +1885,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
+|![](/assets/icons/DefaultIcon.png)|Graphics|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
 
 Inputs: 
 
@@ -1909,7 +1909,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Sun|Sun|Create a directional Sun light|
+|![](/assets/icons/DefaultIcon.png)|Graphics|Sun|Sun|Create a directional Sun light|
 
 Inputs: 
 
@@ -1932,7 +1932,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CreateMaterial|Create Material|Create a material from parameters|
+|![](/assets/icons/DefaultIcon.png)|Graphics|CreateMaterial|Create Material|Create a material from parameters|
 
 Inputs: 
 
@@ -1954,7 +1954,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
+|![](/assets/icons/DefaultIcon.png)|Graphics|RenderTexture|Render Camera to Texture|Creates a texture that is filled by the given camera.|
 
 Inputs: 
 
@@ -1977,7 +1977,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Sun|Sun|Create a directional Sun light|
+|![](/assets/icons/DefaultIcon.png)|Graphics|Sun|Sun|Create a directional Sun light|
 
 Inputs: 
 
@@ -2001,7 +2001,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ReflectionProbe|Reflection Probe|Create a refleciton probe for environment maps.|
+|![](/assets/icons/DefaultIcon.png)|Graphics|ReflectionProbe|Reflection Probe|Create a refleciton probe for environment maps.|
 
 Inputs: 
 
@@ -2023,7 +2023,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ApplyForce|Apply Force|Apply a force (vector with magnitude) to a rigid body|
+|![](/assets/icons/Physics_ApplyForce.png)|Physics|ApplyForce|Apply Force|Apply a force (vector with magnitude) to a rigid body|
 
 Inputs: 
 
@@ -2043,7 +2043,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CollisionShape|Collision Shape|Construct a collision shape form a mesh or model|
+|![](/assets/icons/DefaultIcon.png)|Physics|CollisionShape|Collision Shape|Construct a collision shape form a mesh or model|
 
 Inputs: 
 
@@ -2064,7 +2064,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|PhysicsConstraint|Physics Constraint|Construct a constraint between a rigidbody and an optional second one.|
+|![](/assets/icons/Physics_Constraint.png)|Physics|PhysicsConstraint|Physics Constraint|Construct a constraint between a rigidbody and an optional second one.|
 
 Inputs: 
 
@@ -2087,7 +2087,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DeconstructModel|Deconstruct Model|Deconstructs a static model into vertices, faces and normals|
+|![](/assets/icons/Scene_DeconstructModel.png)|Scene|DeconstructModel|Deconstruct Model|Deconstructs a static model into vertices, faces and normals|
 
 Inputs: 
 
@@ -2106,7 +2106,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Add Node|Add Node To Scene|Adds a node with optional name and parent|
+|![](/assets/icons/Scene_AddNode.png)|Scene|Add Node|Add Node To Scene|Adds a node with optional name and parent|
 
 Inputs: 
 
@@ -2129,7 +2129,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Clone Node|Clones a node and all of its components.|Clones a node|
+|![](/assets/icons/DefaultIcon.png)|Scene|Clone Node|Clones a node and all of its components.|Clones a node|
 
 Inputs: 
 
@@ -2150,7 +2150,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Add Static Model|Add Static Model To Scene|Adds a static model|
+|![](/assets/icons/Scene_AddStaticModel.png)|Scene|Add Static Model|Add Static Model To Scene|Adds a static model|
 
 Inputs: 
 
@@ -2171,7 +2171,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Add Static Model|Add Static Model To Scene|Adds a static model|
+|![](/assets/icons/Scene_AnimatedModel.png)|Scene|Add Static Model|Add Static Model To Scene|Adds a static model|
 
 Inputs: 
 
@@ -2192,7 +2192,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|PlayAnimation|Play animation|Play an animation|
+|![](/assets/icons/Scene_PlayAnimation.png)|Scene|PlayAnimation|Play animation|Play an animation|
 
 Inputs: 
 
@@ -2213,7 +2213,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|PointToRay|Screen Point To Ray|Given a screen point, returns a ray in world coordinates|
+|![](/assets/icons/Scene_ScreenPointToRay.png)|Scene|PointToRay|Screen Point To Ray|Given a screen point, returns a ray in world coordinates|
 
 Inputs: 
 
@@ -2234,7 +2234,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Raycast|Screen Raycast|Listens for screen raycasts, returns hit information|
+|![](/assets/icons/Scene_Raycast.png)|Scene|Raycast|Screen Raycast|Listens for screen raycasts, returns hit information|
 
 Inputs: 
 
@@ -2259,7 +2259,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ScreenBloom|Screen Bloom|Adds intensity-controlled screen bloom effect|
+|![](/assets/icons/DefaultIcon.png)|Scene|ScreenBloom|Screen Bloom|Adds intensity-controlled screen bloom effect|
 
 Inputs: 
 
@@ -2280,7 +2280,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|PhysicsWorld|PHysics World|Initializes physics world|
+|![](/assets/icons/Physics_PhysicsWorld.png)|Physics|PhysicsWorld|PHysics World|Initializes physics world|
 
 Inputs: 
 
@@ -2300,7 +2300,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RigidBody|Rigid Body|Adds rigid body behaviour to a node|
+|![](/assets/icons/Physics_RigidBody.png)|Physics|RigidBody|Rigid Body|Adds rigid body behaviour to a node|
 
 Inputs: 
 
@@ -2323,7 +2323,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Text3D|Text3D|Creates a 3D text node at given position and scale|
+|![](/assets/icons/DefaultIcon.png)|Scene|Text3D|Text3D|Creates a 3D text node at given position and scale|
 
 Inputs: 
 
@@ -2347,7 +2347,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ScriptInstance|Script Instance|Executes a script from file|
+|![](/assets/icons/Scene_ScriptInstance.png)|Scene|ScriptInstance|Script Instance|Executes a script from file|
 
 Inputs: 
 
@@ -2371,7 +2371,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MouseClickListener|Mouse Click Listener|Listens for mouse clickkinput|
+|![](/assets/icons/Input_MouseClickListener.png)|Scene|MouseClickListener|Mouse Click Listener|Listens for mouse clickkinput|
 
 Inputs: 
 
@@ -2391,7 +2391,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SelectGeometry|Select Geometry|Returns selected geometry|
+|![](/assets/icons/Scene_SelectGeometry.png)|Scene|SelectGeometry|Select Geometry|Returns selected geometry|
 
 Inputs: 
 
@@ -2413,7 +2413,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ModifyNode|Modify Node|Modifies basic properties of a Node|
+|![](/assets/icons/Scene_ModifyNode.png)|Scene|ModifyNode|Modify Node|Modifies basic properties of a Node|
 
 Inputs: 
 
@@ -2435,7 +2435,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|GetNode|Get Node|Finds a Node|
+|![](/assets/icons/Scene_GetNode.png)|Scene|GetNode|Get Node|Finds a Node|
 
 Inputs: 
 
@@ -2457,7 +2457,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|GetComponent|Get Component|Gets a reference to a component from Node ID|
+|![](/assets/icons/Scene_GetComponent.png)|Scene|GetComponent|Get Component|Gets a reference to a component from Node ID|
 
 Inputs: 
 
@@ -2479,7 +2479,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|AddComponent|Add Component|Adds a native component to a scene node.|
+|![](/assets/icons/Scene_AddComponent.png)|Scene|AddComponent|Add Component|Adds a native component to a scene node.|
 
 Inputs: 
 
@@ -2499,7 +2499,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ModifyComponent|Modify Component|Modifies the properties of a native component.|
+|![](/assets/icons/Scene_ModifyComponent.png)|Scene|ModifyComponent|Modify Component|Modifies the properties of a native component.|
 
 Inputs: 
 
@@ -2520,7 +2520,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SendEvent|Send Event|Define and send an event|
+|![](/assets/icons/Scene_SendEvent.png)|Scene|SendEvent|Send Event|Define and send an event|
 
 Inputs: 
 
@@ -2539,7 +2539,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|HandleEvent|Handle Event|Receive an Event|
+|![](/assets/icons/Scene_HandleEvent.png)|Scene|HandleEvent|Handle Event|Receive an Event|
 
 Inputs: 
 
@@ -2558,7 +2558,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SetGlobalVar|Set Global Variant|Sets a global variant by name (key)|
+|![](/assets/icons/Scene_SetGlobalVar.png)|Scene|SetGlobalVar|Set Global Variant|Sets a global variant by name (key)|
 
 Inputs: 
 
@@ -2579,7 +2579,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|GetGlobalVar|Get Global Variant|Gets a global variant by name (key)|
+|![](/assets/icons/Scene_GetGlobalVar.png)|Scene|GetGlobalVar|Get Global Variant|Gets a global variant by name (key)|
 
 Inputs: 
 
@@ -2599,7 +2599,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|TriMeshVisualizeScalarField|TriMesh Visualize Scalar Field|Visualize scalar field on a TriMesh|
+|![](/assets/icons/DefaultIcon.png)|Scene|TriMeshVisualizeScalarField|TriMesh Visualize Scalar Field|Visualize scalar field on a TriMesh|
 
 Inputs: 
 
@@ -2620,7 +2620,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LoadScene|Load Scene|Loads a Scene resource file from XML or JSON|
+|![](/assets/icons/Scene_LoadScene.png)|Scene|LoadScene|Load Scene|Loads a Scene resource file from XML or JSON|
 
 Inputs: 
 
@@ -2640,7 +2640,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SaveScene|Save Scene|Saves current Scene resource file from XML or JSON|
+|![](/assets/icons/Scene_SaveScene.png)|Scene|SaveScene|Save Scene|Saves current Scene resource file from XML or JSON|
 
 Inputs: 
 
@@ -2660,7 +2660,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RenderPath|Render Path|Appends a render path item to a viewport.|
+|![](/assets/icons/Scene_AppendRenderPath.png)|Scene|RenderPath|Render Path|Appends a render path item to a viewport.|
 
 Inputs: 
 
@@ -2682,7 +2682,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DecimateMesh|Decimate Mesh|Perform decimation on triangle mesh|
+|![](/assets/icons/Mesh_DecimateMesh.png)|Mesh|DecimateMesh|Decimate Mesh|Perform decimation on triangle mesh|
 
 Inputs: 
 
@@ -2702,7 +2702,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ConTransform|Construct Transform|Construct transform from position, scale, and rotation|
+|![](/assets/icons/Maths_ConstructTransform.png)|Maths|ConTransform|Construct Transform|Construct transform from position, scale, and rotation|
 
 Inputs: 
 
@@ -2723,7 +2723,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DeconstructTransform|Deconstruct Transform|Deconstruct a transform into position, rotation, and scale|
+|![](/assets/icons/Scene_DeconstructTransform.png)|Scene|DeconstructTransform|Deconstruct Transform|Deconstruct a transform into position, rotation, and scale|
 
 Inputs: 
 
@@ -2744,7 +2744,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ConstructVector|Construct Vector|Construct a vector from xyz-coordinates|
+|![](/assets/icons/Vector_ConstructVector.png)|Vector|ConstructVector|Construct Vector|Construct a vector from xyz-coordinates|
 
 Inputs: 
 
@@ -2765,7 +2765,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Inspect|Inspect|Convert tree to string for inspection|
+|![](/assets/icons/Input_Inspect.png)|Input|Inspect|Inspect|Convert tree to string for inspection|
 
 Inputs: 
 
@@ -2784,7 +2784,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SmoothMesh|Smooth Mesh|Perform smoothing on triangle mesh|
+|![](/assets/icons/Mesh_SmoothMesh.png)|Mesh|SmoothMesh|Smooth Mesh|Perform smoothing on triangle mesh|
 
 Inputs: 
 
@@ -2805,7 +2805,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ScreenSlider|Screen Slider|Adds a slider to the user interface|
+|![](/assets/icons/Input_ScreenSlider.png)|Input|ScreenSlider|Screen Slider|Adds a slider to the user interface|
 
 Inputs: 
 
@@ -2828,7 +2828,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Flatten|Flatten Tree|Perform flattening on a tree|
+|![](/assets/icons/Tree_Flatten.png)|Tree|Flatten|Flatten Tree|Perform flattening on a tree|
 
 Inputs: 
 
@@ -2847,7 +2847,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Graft|Graft Tree|Perform grafting on a tree|
+|![](/assets/icons/Tree_Graft.png)|Tree|Graft|Graft Tree|Perform grafting on a tree|
 
 Inputs: 
 
@@ -2866,7 +2866,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Reverse|Reverse Tree|Perform reversal on a tree|
+|![](/assets/icons/Tree_Reverse.png)|Tree|Reverse|Reverse Tree|Perform reversal on a tree|
 
 Inputs: 
 
@@ -2885,7 +2885,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Simplify|Simplify Tree|Perform simplification on a tree|
+|![](/assets/icons/Tree_Simplify.png)|Tree|Simplify|Simplify Tree|Perform simplification on a tree|
 
 Inputs: 
 
@@ -2904,7 +2904,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|GetTreeItem|Get Tree Item|Get Tree Item by path and index|
+|![](/assets/icons/Tree_GetItem.png)|Tree|GetTreeItem|Get Tree Item|Get Tree Item by path and index|
 
 Inputs: 
 
@@ -2925,7 +2925,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Flatten|Flatten Tree|Perform flattening on a tree|
+|![](/assets/icons/Tree_FlipMatrix.png)|Tree|Flatten|Flatten Tree|Perform flattening on a tree|
 
 Inputs: 
 
@@ -2944,7 +2944,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ListLength|List Length|Compute list lengths for tree nodes|
+|![](/assets/icons/Sets_ListLength.png)|Sets|ListLength|List Length|Compute list lengths for tree nodes|
 
 Inputs: 
 
@@ -2963,7 +2963,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Divide||Divides a range into N equal size chunks|
+|![](/assets/icons/DefaultIcon.png)|Sets|Divide||Divides a range into N equal size chunks|
 
 Inputs: 
 
@@ -2984,7 +2984,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DivideDomain||Divides a 3D domain into subdomains|
+|![](/assets/icons/DefaultIcon.png)|Sets|DivideDomain||Divides a 3D domain into subdomains|
 
 Inputs: 
 
@@ -3005,7 +3005,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|VariantMap|Variant Map|Construct a variant map from keys and values|
+|![](/assets/icons/Sets_VariantMap.png)|Sets|VariantMap|Variant Map|Construct a variant map from keys and values|
 
 Inputs: 
 
@@ -3025,7 +3025,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DeconstructMesh|Deconstruct Mesh|Deconstructs a triangle mesh into vertices, faces, and normals|
+|![](/assets/icons/Mesh_DeconstructTriangleMesh.png)|Mesh|DeconstructMesh|Deconstruct Mesh|Deconstructs a triangle mesh into vertices, faces, and normals|
 
 Inputs: 
 
@@ -3048,7 +3048,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ConTriMesh|Construct Triangle Mesh|Construct a mesh from vertex and face lists|
+|![](/assets/icons/Mesh_ConstructTriangleMesh.png)|Mesh|ConTriMesh|Construct Triangle Mesh|Construct a mesh from vertex and face lists|
 
 Inputs: 
 
@@ -3069,7 +3069,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MeshClosestPoint|Closest Point to Mesh|Find point on Mesh closest to query point|
+|![](/assets/icons/Mesh_ClosestPoint.png)|Mesh|MeshClosestPoint|Closest Point to Mesh|Find point on Mesh closest to query point|
 
 Inputs: 
 
@@ -3091,7 +3091,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Hexayurt|ConstructHexayurtMesh|Construct a hexayurt mesh from scale|
+|![](/assets/icons/Mesh_HexayurtMesh.png)|Mesh|Hexayurt|ConstructHexayurtMesh|Construct a hexayurt mesh from scale|
 
 Inputs: 
 
@@ -3110,7 +3110,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Cube|ConstructCubeMesh|Construct a cube mesh from scale|
+|![](/assets/icons/Mesh_CubeMesh.png)|Mesh|Cube|ConstructCubeMesh|Construct a cube mesh from scale|
 
 Inputs: 
 
@@ -3129,7 +3129,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Icosahedron|ConstructIcosahedron|Construct an icosahedron mesh from scale|
+|![](/assets/icons/Mesh_Icosahedron.png)|Mesh|Icosahedron|ConstructIcosahedron|Construct an icosahedron mesh from scale|
 
 Inputs: 
 
@@ -3148,7 +3148,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Sphere|ConstructSphere|Construct a sphere mesh from scale|
+|![](/assets/icons/Mesh_Sphere.png)|Mesh|Sphere|ConstructSphere|Construct a sphere mesh from scale|
 
 Inputs: 
 
@@ -3167,7 +3167,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Plane|ConstructPlaneMesh|Construct a plane mesh|
+|![](/assets/icons/DefaultIcon.png)|Mesh|Plane|ConstructPlaneMesh|Construct a plane mesh|
 
 Inputs: 
 
@@ -3188,7 +3188,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Cylinder|ConstructCylinderMesh|Construct a Cylinder mesh from radii|
+|![](/assets/icons/DefaultIcon.png)|Mesh|Cylinder|ConstructCylinderMesh|Construct a Cylinder mesh from radii|
 
 Inputs: 
 
@@ -3210,7 +3210,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Polygon|Construct Polygon|Construct a polygon with n sides|
+|![](/assets/icons/DefaultIcon.png)|Mesh|Polygon|Construct Polygon|Construct a polygon with n sides|
 
 Inputs: 
 
@@ -3234,7 +3234,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SaveMesh|Save Mesh|Saves a mesh in a variety of formats|
+|![](/assets/icons/Mesh_SaveMesh.png)|Mesh|SaveMesh|Save Mesh|Saves a mesh in a variety of formats|
 
 Inputs: 
 
@@ -3254,7 +3254,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CleanMeshVertices|Cull Unused Vertices|Cull unused vertices from trimesh|
+|![](/assets/icons/Mesh_CleanMesh.png)|Mesh|CleanMeshVertices|Cull Unused Vertices|Cull unused vertices from trimesh|
 
 Inputs: 
 
@@ -3274,7 +3274,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|BoundingBox|Bounding Box|Construct TriMesh bounding box for another TriMesh|
+|![](/assets/icons/DefaultIcon.png)|Mesh|BoundingBox|Bounding Box|Construct TriMesh bounding box for another TriMesh|
 
 Inputs: 
 
@@ -3297,7 +3297,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|HausdorffDistance|Hausdorff Distance|Compute Hausdorff distance between TriMeshes|
+|![](/assets/icons/DefaultIcon.png)|Mesh|HausdorffDistance|Hausdorff Distance|Compute Hausdorff distance between TriMeshes|
 
 Inputs: 
 
@@ -3317,7 +3317,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|HarmonicDeformation|Harmonic Deformation|Given some displacement vectors, the harmonic deformation field is calculated|
+|![](/assets/icons/DefaultIcon.png)|Mesh|HarmonicDeformation|Harmonic Deformation|Given some displacement vectors, the harmonic deformation field is calculated|
 
 Inputs: 
 
@@ -3340,7 +3340,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|TriangulateNMesh|Triangulate NMesh|Triangulates a quad or N-mesh|
+|![](/assets/icons/DefaultIcon.png)|Mesh|TriangulateNMesh|Triangulate NMesh|Triangulates a quad or N-mesh|
 
 Inputs: 
 
@@ -3359,7 +3359,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MeshModeler|Mesh Modeler|Mesh modeling through harmonic deformation|
+|![](/assets/icons/DefaultIcon.png)|Mesh|MeshModeler|Mesh Modeler|Mesh modeling through harmonic deformation|
 
 Inputs: 
 
@@ -3381,7 +3381,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ZigZag|ConstructZigZagPolyline|Construct a zig zag polyline|
+|![](/assets/icons/DefaultIcon.png)|Curve|ZigZag|ConstructZigZagPolyline|Construct a zig zag polyline|
 
 Inputs: 
 
@@ -3402,7 +3402,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Helix/Spiral|ConstructHelixPolyline|Construct a helix or spiral polyline|
+|![](/assets/icons/DefaultIcon.png)|Curve|Helix/Spiral|ConstructHelixPolyline|Construct a helix or spiral polyline|
 
 Inputs: 
 
@@ -3425,7 +3425,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|PolylineSweep|Polyline Sweep|Sweeps a section curve along one or two rail curves|
+|![](/assets/icons/DefaultIcon.png)|Curve|PolylineSweep|Polyline Sweep|Sweeps a section curve along one or two rail curves|
 
 Inputs: 
 
@@ -3446,7 +3446,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Polyline|Construct Polyline|Construct a polyline from a vertex list|
+|![](/assets/icons/Curve_Polyline.png)|Curve|Polyline|Construct Polyline|Construct a polyline from a vertex list|
 
 Inputs: 
 
@@ -3466,7 +3466,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|OffsetPolyline|Offset Polyline (inexact)|Offsets a polyline by offsetting its vertices|
+|![](/assets/icons/Curve_OffsetPolyline.png)|Curve|OffsetPolyline|Offset Polyline (inexact)|Offsets a polyline by offsetting its vertices|
 
 Inputs: 
 
@@ -3486,7 +3486,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SmoothPolyline|Smooth Polyline|Smooth polyline via subdivision|
+|![](/assets/icons/Curve_SmoothPolyline.png)|Curve|SmoothPolyline|Smooth Polyline|Smooth polyline via subdivision|
 
 Inputs: 
 
@@ -3506,7 +3506,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LineSegment|Construct Line Segment|Construct a line segment from start and end vertices|
+|![](/assets/icons/Curve_LineSegment.png)|Curve|LineSegment|Construct Line Segment|Construct a line segment from start and end vertices|
 
 Inputs: 
 
@@ -3526,7 +3526,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LoftPolylines|Loft Polylines|Lofts a collection of polylines into a mesh|
+|![](/assets/icons/Curve_PolylineBlend.png)|Curve|LoftPolylines|Loft Polylines|Lofts a collection of polylines into a mesh|
 
 Inputs: 
 
@@ -3546,7 +3546,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DividePolyline|Divide Polyline|Divide polyline into equal parts|
+|![](/assets/icons/Curve_PolylineDivide.png)|Curve|DividePolyline|Divide Polyline|Divide polyline into equal parts|
 
 Inputs: 
 
@@ -3566,7 +3566,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LoftPolylines|Loft Polylines|Perform loft operation on a list of polylines|
+|![](/assets/icons/Curve_PolylineLoft.png)|Curve|LoftPolylines|Loft Polylines|Perform loft operation on a list of polylines|
 
 Inputs: 
 
@@ -3585,7 +3585,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|EvaluatePolyline|Evaluate Polyline|Evaluate point on polyline from parameter|
+|![](/assets/icons/Curve_EvaluatePolyline.png)|Curve|EvaluatePolyline|Evaluate Polyline|Evaluate point on polyline from parameter|
 
 Inputs: 
 
@@ -3606,7 +3606,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|PolylineRevolve|Polyline Revolve|Creates a surface of revolution from a polyline and an axis|
+|![](/assets/icons/DefaultIcon.png)|Curve|PolylineRevolve|Polyline Revolve|Creates a surface of revolution from a polyline and an axis|
 
 Inputs: 
 
@@ -3627,7 +3627,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Polygon|Construct Polygon|Construct a polygon with n sides|
+|![](/assets/icons/Curve_Polygon.png)|Curve|Polygon|Construct Polygon|Construct a polygon with n sides|
 
 Inputs: 
 
@@ -3647,7 +3647,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SketchPlane|Sketch Plane|Create a sketch and position it in 3D.|
+|![](/assets/icons/DefaultIcon.png)|Curve|SketchPlane|Sketch Plane|Create a sketch and position it in 3D.|
 
 Inputs: 
 
@@ -3670,7 +3670,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MeshSketch|Mesh Sketch|Sketch on a Mesh|
+|![](/assets/icons/DefaultIcon.png)|Curve|MeshSketch|Mesh Sketch|Sketch on a Mesh|
 
 Inputs: 
 
@@ -3691,7 +3691,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|RefinePolyline|Refine Polyline|Refine polyline based on list of parameters|
+|![](/assets/icons/DefaultIcon.png)|Curve|RefinePolyline|Refine Polyline|Refine polyline based on list of parameters|
 
 Inputs: 
 
@@ -3711,7 +3711,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CurveLength|Curve Length|Calculates the length of a curve.|
+|![](/assets/icons/DefaultIcon.png)|Curve|CurveLength|Curve Length|Calculates the length of a curve.|
 
 Inputs: 
 
@@ -3730,7 +3730,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SubdivideMesh|Subdivide Triangle Mesh|Perform subdivision on triangle mesh|
+|![](/assets/icons/Mesh_SubdivideMesh.png)|Mesh|SubdivideMesh|Subdivide Triangle Mesh|Perform subdivision on triangle mesh|
 
 Inputs: 
 
@@ -3750,7 +3750,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SliderListener|Slider Listener|Listens for slider input|
+|![](/assets/icons/Input_SliderListener.png)|Input|SliderListener|Slider Listener|Listens for slider input|
 
 Inputs: 
 
@@ -3769,7 +3769,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DecVec|Deconstruct Vector|Deconstruct a vector into its components|
+|![](/assets/icons/Vector_DeconstructVector.png)|Vector|DecVec|Deconstruct Vector|Deconstruct a vector into its components|
 
 Inputs: 
 
@@ -3790,7 +3790,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|EvalFunction|Evaluate Function|Evaluates a basic math function.|
+|![](/assets/icons/Maths_EvalFunction.png)|Maths|EvalFunction|Evaluate Function|Evaluates a basic math function.|
 
 Inputs: 
 
@@ -3812,7 +3812,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Expression|Evaluate Expression|Evaluates a basic Expression.|
+|![](/assets/icons/DefaultIcon.png)|Maths|Expression|Evaluate Expression|Evaluates a basic Expression.|
 
 Inputs: 
 
@@ -3832,7 +3832,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ClosePoint|Closest Point|Which point in list is closest|
+|![](/assets/icons/Vector_ClosestPoint.png)|Vector|ClosePoint|Closest Point|Which point in list is closest|
 
 Inputs: 
 
@@ -3854,7 +3854,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Distance|Vector Distance|Compute distance between vectors|
+|![](/assets/icons/Vector_Distance.png)|Vector|Distance|Vector Distance|Compute distance between vectors|
 
 Inputs: 
 
@@ -3874,7 +3874,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Color|Construct Color|Construct a color from RGBA values|
+|![](/assets/icons/Vector_ColorRGBA.png)|Vector|Color|Construct Color|Construct a color from RGBA values|
 
 Inputs: 
 
@@ -3896,7 +3896,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ClosePoint|Closest Point|Which point in list is closest|
+|![](/assets/icons/Vector_ColorPalette.png)|Vector|ClosePoint|Closest Point|Which point in list is closest|
 
 Inputs: 
 
@@ -3917,7 +3917,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|BestFitPlane|Best-Fit Plane|Compute the least-squares plane of best fit|
+|![](/assets/icons/Vector_BestFitPlane.png)|Vector|BestFitPlane|Best-Fit Plane|Compute the least-squares plane of best fit|
 
 Inputs: 
 
@@ -3937,7 +3937,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|UpdateListener|Update Listener|Listens for scene updates|
+|![](/assets/icons/Scene_UpdateListener.png)|Scene|UpdateListener|Update Listener|Listens for scene updates|
 
 Inputs: 
 
@@ -3957,7 +3957,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|OffsetMesh|Offset Triangle Mesh|Perform offset operation on a triangle mesh|
+|![](/assets/icons/Mesh_Offset.png)|Mesh|OffsetMesh|Offset Triangle Mesh|Perform offset operation on a triangle mesh|
 
 Inputs: 
 
@@ -3977,7 +3977,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Window|Mesh Window|Creates a set of windows from a mesh|
+|![](/assets/icons/Mesh_Window.png)|Mesh|Window|Mesh Window|Creates a set of windows from a mesh|
 
 Inputs: 
 
@@ -3997,7 +3997,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Frame|Mesh Frame|Creates an inset frame mesh|
+|![](/assets/icons/Mesh_Frame.png)|Mesh|Frame|Mesh Frame|Creates an inset frame mesh|
 
 Inputs: 
 
@@ -4017,7 +4017,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ThickenMesh|Thicken Triangle Mesh|Perform thickening operation on a triangle mesh|
+|![](/assets/icons/Mesh_Thicken.png)|Mesh|ThickenMesh|Thicken Triangle Mesh|Perform thickening operation on a triangle mesh|
 
 Inputs: 
 
@@ -4037,7 +4037,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LoopSubdivide|Loop Subdivide Triangle Mesh|Perform loop subdivision on triangle mesh|
+|![](/assets/icons/Mesh_LoopSubdivide.png)|Mesh|LoopSubdivide|Loop Subdivide Triangle Mesh|Perform loop subdivision on triangle mesh|
 
 Inputs: 
 
@@ -4057,7 +4057,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ExtrudePolyline|Extrude Polyline|Extrudes a polyline along a vector|
+|![](/assets/icons/Mesh_ExtrudePolyline.png)|Mesh|ExtrudePolyline|Extrude Polyline|Extrudes a polyline along a vector|
 
 Inputs: 
 
@@ -4077,7 +4077,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|FillPolygon|Fill polygon|Triangulates a polygon|
+|![](/assets/icons/Mesh_FillPolygon.png)|Mesh|FillPolygon|Fill polygon|Triangulates a polygon|
 
 Inputs: 
 
@@ -4098,7 +4098,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|FacePolylines|Face Polylines|Returns the face polylines from a mesh|
+|![](/assets/icons/DefaultIcon.png)|Mesh|FacePolylines|Face Polylines|Returns the face polylines from a mesh|
 
 Inputs: 
 
@@ -4117,7 +4117,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MeshBoundary|Mesh Boundary|Compute boundary of a mesh|
+|![](/assets/icons/Mesh_Boundary.png)|Mesh|MeshBoundary|Mesh Boundary|Compute boundary of a mesh|
 
 Inputs: 
 
@@ -4136,7 +4136,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MeshPlaneIntersection|Mesh Plane Intersection|Intersect triangle mesh with plane|
+|![](/assets/icons/Mesh_MeshPlaneIntersection.png)|Mesh|MeshPlaneIntersection|Mesh Plane Intersection|Intersect triangle mesh with plane|
 
 Inputs: 
 
@@ -4158,7 +4158,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|JoinMeshes|Join Meshes|Join meshes in a list into a single mesh|
+|![](/assets/icons/Mesh_JoinMeshes.png)|Mesh|JoinMeshes|Join Meshes|Join meshes in a list into a single mesh|
 
 Inputs: 
 
@@ -4177,7 +4177,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|TriMeshVolume|TriMesh Volume|Compute volume of TriMesh|
+|![](/assets/icons/Mesh_TriMeshVolume.png)|Mesh|TriMeshVolume|TriMesh Volume|Compute volume of TriMesh|
 
 Inputs: 
 
@@ -4196,7 +4196,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Tetrahedralize|Tetrahedralize Mesh|Create a tetrahedralization of a mesh|
+|![](/assets/icons/DefaultIcon.png)|Mesh|Tetrahedralize|Tetrahedralize Mesh|Create a tetrahedralization of a mesh|
 
 Inputs: 
 
@@ -4216,7 +4216,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|UnifyNormals|Unify Normals|Unify TriMesh normals to consistent orientation|
+|![](/assets/icons/DefaultIcon.png)|Mesh|UnifyNormals|Unify Normals|Unify TriMesh normals to consistent orientation|
 
 Inputs: 
 
@@ -4235,7 +4235,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|AvgEdge|Average Edge Length|Compute average edge length for TriMesh|
+|![](/assets/icons/DefaultIcon.png)|Mesh|AvgEdge|Average Edge Length|Compute average edge length for TriMesh|
 
 Inputs: 
 
@@ -4254,7 +4254,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CollapseShortEdges|Collapse Short Edges|Collapse edges shorter than (1 - tol) * avg|
+|![](/assets/icons/DefaultIcon.png)|Mesh|CollapseShortEdges|Collapse Short Edges|Collapse edges shorter than (1 - tol) * avg|
 
 Inputs: 
 
@@ -4274,7 +4274,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|MeanCurvatureFlow|Mean Curvature Flow|Mean Curvature Flow on TriMesh|
+|![](/assets/icons/DefaultIcon.png)|Mesh|MeanCurvatureFlow|Mean Curvature Flow|Mean Curvature Flow on TriMesh|
 
 Inputs: 
 
@@ -4294,7 +4294,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|PerVertexEval|Per-Vertex Evaluate Function|Evaluates function on vertices of TriMesh|
+|![](/assets/icons/DefaultIcon.png)|Mesh|PerVertexEval|Per-Vertex Evaluate Function|Evaluates function on vertices of TriMesh|
 
 Inputs: 
 
@@ -4314,7 +4314,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ToYUp|ToYUp|Convert mesh from Z-Up to Y-Up coordinates|
+|![](/assets/icons/DefaultIcon.png)|Mesh|ToYUp|ToYUp|Convert mesh from Z-Up to Y-Up coordinates|
 
 Inputs: 
 
@@ -4333,7 +4333,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ToZUp|ToZUp|Convert mesh from Y-Up to Z-Up coordinates|
+|![](/assets/icons/DefaultIcon.png)|Mesh|ToZUp|ToZUp|Convert mesh from Y-Up to Z-Up coordinates|
 
 Inputs: 
 
@@ -4352,7 +4352,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ReadOSM|Read OSM File|Reads an OSM file|
+|![](/assets/icons/Spatial_ReadOSM.png)|Spatial|ReadOSM|Read OSM File|Reads an OSM file|
 
 Inputs: 
 
@@ -4375,7 +4375,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Terrain|Terrain Object|Terrain Object|
+|![](/assets/icons/DefaultIcon.png)|Spatial|Terrain|Terrain Object|Terrain Object|
 
 Inputs: 
 
@@ -4398,7 +4398,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Sun|Sun|Create a directional Sun light|
+|![](/assets/icons/DefaultIcon.png)|Spatial|Sun|Sun|Create a directional Sun light|
 
 Inputs: 
 
@@ -4423,7 +4423,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|AddComponent|Add Component|Adds a native component to a scene node.|
+|![](/assets/icons/DefaultIcon.png)|Spatial|AddComponent|Add Component|Adds a native component to a scene node.|
 
 Inputs: 
 
@@ -4446,7 +4446,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CrowdManager|Crowd Manager|Adds a crowd manager to scene root.|
+|![](/assets/icons/DefaultIcon.png)|Spatial|CrowdManager|Crowd Manager|Adds a crowd manager to scene root.|
 
 Inputs: 
 
@@ -4466,7 +4466,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|CrowdManager|Crowd Manager|Adds a crowd manager to scene root.|
+|![](/assets/icons/DefaultIcon.png)|Spatial|CrowdManager|Crowd Manager|Adds a crowd manager to scene root.|
 
 Inputs: 
 
@@ -4492,7 +4492,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|AddComponent|Add Component|Adds a native component to a scene node.|
+|![](/assets/icons/DefaultIcon.png)|Spatial|AddComponent|Add Component|Adds a native component to a scene node.|
 
 Inputs: 
 
@@ -4516,7 +4516,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SplitLongEdges|Split Long Edges|Split edges longer than (1 + tol) * avg|
+|![](/assets/icons/DefaultIcon.png)|Mesh|SplitLongEdges|Split Long Edges|Split edges longer than (1 + tol) * avg|
 
 Inputs: 
 
@@ -4536,7 +4536,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ComputeAdjacencyData|Compute Mesh Topology Data|Computes Mesh Topology Data (manifold trimeshes only!)|
+|![](/assets/icons/DefaultIcon.png)|Mesh|ComputeAdjacencyData|Compute Mesh Topology Data|Computes Mesh Topology Data (manifold trimeshes only!)|
 
 Inputs: 
 
@@ -4555,7 +4555,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|FaceTopology|Compute Mesh Face Topology|Computes Mesh Topology Data for face|
+|![](/assets/icons/DefaultIcon.png)|Mesh|FaceTopology|Compute Mesh Face Topology|Computes Mesh Topology Data for face|
 
 Inputs: 
 
@@ -4576,7 +4576,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|VertexTopology|Compute Mesh Vertex Topology|Computes Mesh Topology Data for vertices|
+|![](/assets/icons/DefaultIcon.png)|Mesh|VertexTopology|Compute Mesh Vertex Topology|Computes Mesh Topology Data for vertices|
 
 Inputs: 
 
@@ -4597,7 +4597,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|VertexTopology|Compute Mesh Vertex Topology|Computes Mesh Topology Data for a given vertex|
+|![](/assets/icons/DefaultIcon.png)|Mesh|VertexTopology|Compute Mesh Vertex Topology|Computes Mesh Topology Data for a given vertex|
 
 Inputs: 
 
@@ -4619,7 +4619,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|DeconstructFace|Compute Mesh Face Data|Returns normal, centroid and vertices of face|
+|![](/assets/icons/DefaultIcon.png)|Mesh|DeconstructFace|Compute Mesh Face Data|Returns normal, centroid and vertices of face|
 
 Inputs: 
 
@@ -4641,7 +4641,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Torus|ConstructTorusMesh|Construct a torus mesh from radii|
+|![](/assets/icons/DefaultIcon.png)|Mesh|Torus|ConstructTorusMesh|Construct a torus mesh from radii|
 
 Inputs: 
 
@@ -4665,7 +4665,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SuperEllipsoid|ConstructSuperEllipsoidMesh|Construct an ellipsoid mesh from params|
+|![](/assets/icons/DefaultIcon.png)|Mesh|SuperEllipsoid|ConstructSuperEllipsoidMesh|Construct an ellipsoid mesh from params|
 
 Inputs: 
 
@@ -4690,7 +4690,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|FlipNormals|Unify Normals|Unify TriMesh normals to consistent orientation|
+|![](/assets/icons/DefaultIcon.png)|Mesh|FlipNormals|Unify Normals|Unify TriMesh normals to consistent orientation|
 
 Inputs: 
 
@@ -4709,7 +4709,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|OrientOutward|OrientOutward|...|
+|![](/assets/icons/DefaultIcon.png)|Mesh|OrientOutward|OrientOutward|...|
 
 Inputs: 
 
@@ -4728,7 +4728,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ReadOBJ|ReadOBJ|Read TriMesh from OBJ file|
+|![](/assets/icons/DefaultIcon.png)|Mesh|ReadOBJ|ReadOBJ|Read TriMesh from OBJ file|
 
 Inputs: 
 
@@ -4748,7 +4748,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ReadOFF|ReadOFF|Read TriMesh from OFF file|
+|![](/assets/icons/DefaultIcon.png)|Mesh|ReadOFF|ReadOFF|Read TriMesh from OFF file|
 
 Inputs: 
 
@@ -4768,7 +4768,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ReadPLY|ReadPLY|Read TriMesh from PLY file|
+|![](/assets/icons/DefaultIcon.png)|Mesh|ReadPLY|ReadPLY|Read TriMesh from PLY file|
 
 Inputs: 
 
@@ -4788,7 +4788,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|WriteOFF|WriteOFF|Write TriMesh to OFF file|
+|![](/assets/icons/DefaultIcon.png)|Mesh|WriteOFF|WriteOFF|Write TriMesh to OFF file|
 
 Inputs: 
 
@@ -4809,7 +4809,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|WriteOBJ|WriteOBJ|Write TriMesh to OBJ file|
+|![](/assets/icons/DefaultIcon.png)|Mesh|WriteOBJ|WriteOBJ|Write TriMesh to OBJ file|
 
 Inputs: 
 
@@ -4830,7 +4830,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|WritePLY|WritePLY|Write TriMesh to PLY file|
+|![](/assets/icons/DefaultIcon.png)|Mesh|WritePLY|WritePLY|Write TriMesh to PLY file|
 
 Inputs: 
 
@@ -4851,7 +4851,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|Remesh|Remesh|Perform basic remeshing on a TriMesh|
+|![](/assets/icons/DefaultIcon.png)|Mesh|Remesh|Remesh|Perform basic remeshing on a TriMesh|
 
 Inputs: 
 
@@ -4873,7 +4873,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|SlideTowards|SlideTowards|Slide mesh towards another|
+|![](/assets/icons/DefaultIcon.png)|Mesh|SlideTowards|SlideTowards|Slide mesh towards another|
 
 Inputs: 
 
@@ -4894,7 +4894,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|LinearDeformation|Mesh Modeler|Mesh modeling through Linear deformation|
+|![](/assets/icons/DefaultIcon.png)|Mesh|LinearDeformation|Mesh Modeler|Mesh modeling through Linear deformation|
 
 Inputs: 
 
@@ -4916,7 +4916,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|BoxMorph|Mesh Modeler|Mesh modeling through bounding box morph|
+|![](/assets/icons/DefaultIcon.png)|Mesh|BoxMorph|Mesh Modeler|Mesh modeling through bounding box morph|
 
 Inputs: 
 
@@ -4936,7 +4936,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|BoundingBox|Bounding Box|Construct TriMesh bounding box for another TriMesh|
+|![](/assets/icons/DefaultIcon.png)|Tmp|BoundingBox|Bounding Box|Construct TriMesh bounding box for another TriMesh|
 
 Inputs: 
 
@@ -4956,7 +4956,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ShapeOpSolve|ShapeOp Solve|...|
+|![](/assets/icons/DefaultIcon.png)|ShapeOp|ShapeOpSolve|ShapeOp Solve|...|
 
 Inputs: 
 
@@ -4985,7 +4985,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ShapeOpEdgeStrain|ShapeOp Edge Strain|...|
+|![](/assets/icons/DefaultIcon.png)|ShapeOp|ShapeOpEdgeStrain|ShapeOp Edge Strain|...|
 
 Inputs: 
 
@@ -5008,7 +5008,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ShapeOpTriangleStrain|ShapeOp Triangle Strain|...|
+|![](/assets/icons/DefaultIcon.png)|ShapeOp|ShapeOpTriangleStrain|ShapeOp Triangle Strain|...|
 
 Inputs: 
 
@@ -5032,7 +5032,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|ShapeOpCloseness|ShapeOp Closeness|...|
+|![](/assets/icons/DefaultIcon.png)|ShapeOp|ShapeOpCloseness|ShapeOp Closeness|...|
 
 Inputs: 
 
@@ -5052,7 +5052,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|GeometryStrain|Geometry Strain|...|
+|![](/assets/icons/DefaultIcon.png)|ShapeOp|GeometryStrain|Geometry Strain|...|
 
 Inputs: 
 
@@ -5074,7 +5074,7 @@ Overview:
 
 | Icon | Category | Name | Full Name | Description |
 | :--- |:--- |:--- |:--- |:--- |
-|![](/assets/icons/DefaultIcon.png)|GRAPH_CATEGORY|GeometryStrain|Geometry Strain|...|
+|![](/assets/icons/DefaultIcon.png)|ShapeOp|GeometryStrain|Geometry Strain|...|
 
 Inputs: 
 

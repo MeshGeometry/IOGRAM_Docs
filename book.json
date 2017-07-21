@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api", "anchors", "-lunr", "clarity" ],
+    "plugins": [ "theme-api", "anchors", "-lunr"],
     "pluginsConfig": {
         "theme-api": {
             "languages": [

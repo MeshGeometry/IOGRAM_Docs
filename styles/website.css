@@ -4,4 +4,5 @@
 }
 .book .book-body .page-wrapper .page-inner {
   max-width: 75%;
+  background: rgb(0,0,0);
 }

@@ -30,7 +30,7 @@ Overview:
 
 | Icon | Categarory | Name | Full Name | Description |
 | :--- |:--- | :--- | :--- | :---|
-| --image--- | Graphics | what | is ths| asdf |
+| _icon_ | _category_ | _name_ | _fullname_| _description_ |
 
 Inputs:
 

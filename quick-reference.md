@@ -36,7 +36,7 @@ Inputs:
 
 | Variable | Name | Full Name | Description | Type | List Access | Default Value |
 | :--- |:--- | :--- | :--- | :--- |:--- | :--- |:--- |
-| --image--- | what | is ths| asdf | asdf | asdf | asdf |
+| _variable_ | _name_ | _fullname_ | _description_ | _type_ | _listaccess_ | _defaultvalue_ |
 
 Outputs:
 

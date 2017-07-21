@@ -1,6 +1,6 @@
 .book .book-body .navigation {
   min-width: 4%;
-  background_color: rgb(0,0,0);
+  color: rgb(0,0,0);
 }
 .book .book-body .page-wrapper .page-inner {
   max-width: 75%;
